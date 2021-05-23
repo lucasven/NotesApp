@@ -1,0 +1,22 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "this project is part of the course \"The complete node.js devepoler course\" on udemy!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasven/NotesApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasven/NotesApp/issues"
+  },
+  "homepage": "https://github.com/lucasven/NotesApp#readme",
+  "dependencies": {
+    "validator": "^10.8.0"
+  }
+}
